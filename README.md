@@ -17,3 +17,12 @@ A simple calculator project built using Python.
 
 ```bash
 python calculator.py
+## Sample Output
+
+```text
+Enter first number: 10
+Enter operator: +
+Enter second number: 20
+
+Result: 30
+```
